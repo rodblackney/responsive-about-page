@@ -1,0 +1,14 @@
+body {
+  color: #151564;
+  background-color: #F2F2F2;
+  line-height: 22px;
+  font-size: 14px;
+font-family: 'Oswald', sans-serif;
+  border-top: 10px #3f729b solid;
+}
+
+
+#projects {
+  margin-top: 50px;
+}
+
